@@ -39,10 +39,19 @@ span {
   font-weight: 100;
 	color: #c7c7c7;
 }
-.p2{ 
+.p2 { 
 	font-size: 20px;
 	color: #c7c7c7;
 	margin: 0px;
 	margin-top: 10px;
 }
 
+.sidebar {
+	width: 35%;
+	float: left;
+
+}
+.main-content {
+	width: 62%;
+	float: left;
+}
